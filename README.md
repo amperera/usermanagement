@@ -1,4 +1,8 @@
 
+# // **  TO INSTALL DEPENDENCIES //
+
+npm install
+
 # // **  TO START BACKEND PROJECT //
 
 npm run start
