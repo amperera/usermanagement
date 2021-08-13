@@ -1,1 +1,1 @@
-[{"username":"amila","pwd":"12312312","role":"admin"},{"name":"Avian","pwd":"e12123"},{"username":"sasini","password":"1312312","role":"user"},{"username":"manike","password":"1312312","role":"user","id":4},{"username":"manike","password":"1312312","role":"user","id":4},{"username":"abaran","password":"1312312","role":"user","id":5},{"firstName":"amilaperera","lastName":"sdadas","username":"millionspacestest1@gmail.com","password":"Test123#","id":6}]
+[{"firstname": "amila", "lastname": "perera", "username":"amila","pwd":"12312312","role":"admin"} ]
